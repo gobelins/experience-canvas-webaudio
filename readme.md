@@ -450,7 +450,7 @@ paperjs webaudioapi, express
 ## license
 compliqué car utilise musique non libre de droit
 
-# spectrumspectrum
+# spectrum
 
 ![screenshot](screenshots/spectrum.png)
 
