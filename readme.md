@@ -24,14 +24,14 @@ Cette expérience doit être partagée
 - [space3000](#space3000) par Léon Baudouin
 - [project sound](#project-sound) par Emilien Vandevelde
 - [le piano des animaux](#le-piano-des-animaux) par Vincent Largillet
-- [cerf volants theremin](#cerfs-volants-theremin) par Morgane Sauneuf
+- [cerfs volants theremin](#cerfs-volants-theremin) par Morgane Sauneuf
 - [cantar](#cantar) par Michael de Laborde
 - [generative forest](#generative-forest) par Marius Ballot
 - [space mess](#space-mess) par Théo Lemoine
 - [game of life sound evolution](#game-of-life-sound-evolution) par Aurelien Hemidy
 - [casse-brique](#casse-brique) par Yann Chabot-Thomas
 - [space invaders mind](#space-invaders-mind) par Ludovic Pouyaut
-- [sprectrum](#sprectrum) par Pablo Aparicio
+- [spectrum](#spectrum) par Pablo Aparicio
 - [accordeur vocal](#accordeur-vocal) par Léo Mouraire
 - [ns-03_theremin](#ns-03_theremin) par Arno Dubois
 
@@ -302,7 +302,7 @@ webaudio, canvas, express
 
 cc by sa 4.0
 
-# cerf volants theremin
+# cerfs volants theremin
 
 ![screenshot](screenshots/cerfs-volants-theremin.png)
 
@@ -431,7 +431,7 @@ dual MIT wtfpl
 
 # space invaders mind
 
-(screenshot missing)
+![screenshot](screenshots/space-invader-mind.png)
 
 ## auteur
 Ludovic Pouyaut
@@ -450,9 +450,9 @@ paperjs webaudioapi, express
 ## license
 compliqué car utilise musique non libre de droit
 
-# sprectrum
+# spectrumspectrum
 
-![screenshot](screenshots/sprectrum.png)
+![screenshot](screenshots/spectrum.png)
 
 ## auteur
 Pablo Aparicio
