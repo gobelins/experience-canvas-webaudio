@@ -11,6 +11,12 @@ Cette expérience doit être partagée
 - soit à posteriori avec une restitution
 
 
+# toc
+
+- [wave.more](#wavemore) par Yaoyi Luo
+- [space ship](#spaceship) par Julien Vanroy
+
+
 <!--
 l'experience
 l'intéraction
@@ -57,7 +63,7 @@ pioupiou vivent les lasers
 ![screenshot](screenshots/spaceship.png)
 
 ## auteur
-julien vanroy
+Julien Vanroy
 [@jujuonelove](http://github.com/jujuonelove)
 http://spaceship.julienvanroy.fr/
 
@@ -75,12 +81,13 @@ phaser, socket.io
 
 une expérience à dormir debout
 
+![screenshot](screenshots/hibou.png)
 
 ## auteur
+
 juliette sage--aubriot
 @juliettesageaubriot
 
-![screenshot](screenshots/hibou.png)
 
 ## l'experience
 
@@ -99,7 +106,7 @@ paperjs, express
 
 il a un sacré accent québécois
 
-![screenshot](screenshots/hibou.png)
+![screenshot](screenshots/toto.png)
 
 ## auteur
 
