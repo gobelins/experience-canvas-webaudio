@@ -27,8 +27,13 @@ Cette expérience doit être partagée
 - [cerf volants theremin](#cerfs-volants-theremin) par Morgane Sauneuf
 - [cantar](#cantar) par Michael de Laborde
 - [generative forest](#generative-forest) par Marius Ballot
-- [space mess](#space-mess) par Marius Ballot
-
+- [space mess](#space-mess) par Théo Lemoine
+- [game of life sound evolution](#game-of-life-sound-evolution) par Aurelien Hemidy
+- [casse-brique](#casse-brique) par Yann Chabot-Thomas
+- [space invaders mind](#space-invaders-mind) par Ludovic Pouyaut
+- [sprectrum](#sprectrum) par Pablo Aparicio
+- [accordeur vocal](#accordeur-vocal) par Léo Mouraire
+- [ns-03_theremin](#ns-03_theremin) par Arno Dubois
 
 <!--
 l'experience
@@ -229,7 +234,7 @@ design: luc miramont
 
 # space3000
 jeu d'obstacles controllé à la voix
-![screenshot](screenshots/speakinggg.png)
+![screenshot](screenshots/space3000.png)
 
 ## auteur
 Léon Baudouin
@@ -350,7 +355,6 @@ Marius Ballot
 - demo https://www.mariusballot.com/lab/generativeForest/
 
 
-
 ## experiment
 
 experience immersive dans un environnement 3D génératif
@@ -370,7 +374,7 @@ cc by sa 4.0
 ![screenshot](screenshots/space-mess.png)
 
 ## auteur
-théo lemoine
+Théo Lemoine
 @TheoLemoine
 
 ## experiment
@@ -381,10 +385,15 @@ asteroid-like multi-joueur piloté par le giroscope du téléphone
 
 socket.io express paperjs deviceorientation webaudioapi
 
-# aurelien hemidy
+# game of life sound evolution
+design génératif visuel et sonore
+
+![screenshot](screenshots/gol.png)
+
+## auteur
+Aurelien Hemidy
 @aurelien.hmdy
 
-game of life sound évolution
 
 ## experiment
 
@@ -400,14 +409,16 @@ canvas, express, webaudio
 ## license
 wtfpl
 
-# yann chabot-thomas
-@ychabot-thomas
+# casse-brique
 
-casse-brique
+(screenshot missing)
+
+Yann Chabot-Thomas
+@ychabot-thomas
 
 ## experiment
 
-casse-brique sonore
+un casse-brique sonore
 
 ## restitution
 leaderboard
@@ -418,10 +429,13 @@ phase, express
 ## license
 dual MIT wtfpl
 
-# ludovic pouyaut
-@ludoPyt
+# space invaders mind
 
-space invaders mind
+(screenshot missing)
+
+## auteur
+Ludovic Pouyaut
+@ludoPyt
 
 ## experience
 
@@ -436,14 +450,18 @@ paperjs webaudioapi, express
 ## license
 compliqué car utilise musique non libre de droit
 
-# pablo aparicio
+# sprectrum
+
+![screenshot](screenshots/sprectrum.png)
+
+## auteur
+Pablo Aparicio
 @paaparicio
 
 sprectrum
 
 ## experiment
-audio visualiser
-l'utilisateur peut ajuster différents types de rendus qui sont animés par le son joué et les mouvements de souris
+c'est un audio visualiser: l'utilisateur peut ajuster différents types de rendus qui sont animés par le son joué et les mouvements de souris
 
 ## restitution
 screeshots / pochettes d'album
@@ -452,16 +470,20 @@ screeshots / pochettes d'album
 canvas, webaudio, express
 
 
-# léo mouraire
+# accordeur-vocal
+
+![screenshot](screenshots/accordeur-vocal.png)
+
+## auteur
+Léo Mouraire
 @leochocolat
 
-accordeur vocal
+- code source https://github.com/leochocolat/CanvasSound
+
 
 ## experiment
 
-mirroir qui retransmet de manière graphique la hauteur de la voix
-
-l'utilisateur se voit et quand il.elle  parle ou chante, voit les notes sortir de sa bouche
+c'est comme un mirroir qui retransmet de manière graphique la hauteur de la voix: l'utilisateur se voit et quand il parle ou chante, voit les notes sortir de sa bouche. la note la plus proche de celle qu'il chante lui est donnée en feedback dans le casque audio
 
 ## restitution
 
@@ -474,14 +496,19 @@ webAudioApi, canvas, express, faceapi.js, tone.js, pitch detection
 dépend des licenses des composants
 
 
-# arno dubois
+# ns-03_theremin
+une interface naturelle de theremin
+
+![screenshot](screenshots/theremin.png)
+
+## auteur
+Arno Dubois
 @arno500
 
-ns-03_theremin
 
 ## experiment
 
-manier un theremin sans avoir d'interface, en accorchant des joy-con à ses poignets, l'utilisateur pilote un theremin numérique
+en accorchant des joy-con à ses poignets, l'utilisateur joue du thérémin sans avoir d'interface
 
 ## restitution
 aucune
