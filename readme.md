@@ -14,7 +14,7 @@ Cette expérience doit être partagée
 # toc
 
 - [wave.more](#wavemore) par Yaoyi Luo
-- [space ship](#spaceship) par Julien Vanroy
+- [space ship](#space-ship) par Julien Vanroy
 
 
 <!--
@@ -154,47 +154,55 @@ compliqué puisque utilise la cover une œuvre soumise au copyright :-)
 
 # blue
 
+(screenshot missing)
+
 ## auteur
 
 Gregory Colombe
 @GregoryColombe
 
-
-in the end de xxxtentation lil peep
-
-Dans cette expérience l’on peut observer des particules de couleurs avec lesquelles on peut interagir à l’aide de la souris. Le son du site a une particularité intéressante car le volume stéréo de la musique est plus puissant du coté où sont situées les particules. L’objectif de ce site est donc de s’amuser avec les particules de couleurs tout en profitant de l’expérience sonore.
+Sur le morceau "In the end" de la collaboration entre XXXTentacion et Lil Peep pour leur album "Falling down", l'utilisateur peut à l'aide de sa souris jouer avec la spacialisation du son et visualise cette balance gauche-droite avec un nuage de particules bleues.
 
 ## technos
 pixi, weaudio, express
 
 ## license
 cc by sa 4.0
-c'est compliqué car se base sur une œuvre de lil peep
+c'est compliqué car se base sur une œuvre soumise au copyright
 
-# An Truong
+# speakinggg
+
+une expérience de communication entre la voix et la visualisation de la voix
+
+![screenshot](screenshots/speakinggg.png)
+
+## auteur
+
+An Truong
 @sdsmnc221
 
-speakinggg
-https://speakinggg.herokuapp.com
+- démo: https://speakinggg.herokuapp.com
+- code: http://github.com/sdsmnc221/speakinggg
 
-#experiment
-
-application de chat expérimental basé sur la voice recognition de chrome où les utilateurs peuvent échanger sans taper
-
+## experiment
 
 chat texte entre utilisateurs dictant leurs messages en visualisant le pitch, les mots prononcés, le volume et les fréquences vocales
-
 
 
 ## technos
 google speech recognition, webaudio, paper, socket.io
 
 
-# Serge Bocancea
-fire ice cream
+# fire ice cream
+le jeu qui te fera crier
+
+## auteur
+
+Serge Bocancea
+
 
 ## experiment
-un flappy-bird like controllé par la voix
+un [flappy-bird like](https://en.wikipedia.org/wiki/Flappy_Bird) controllé par la voix
 
 ## restitution
 leaderboard
