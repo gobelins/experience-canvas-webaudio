@@ -68,35 +68,43 @@ jeu [asteroid-like](https://en.wikipedia.org/wiki/Asteroids_(video_game)) multij
 phaser, socket.io
 
 ## license
-wtfpl
+[wtfpl](http://www.wtfpl.net/)
 
 
 # pimp my hibou
+
+une expérience à dormir debout
+
+
 ## auteur
 juliette sage--aubriot
 @juliettesageaubriot
 
+![screenshot](screenshots/hibou.png)
+
 ## l'experience
 
-Nous pouvons "pimper" notre hibou, c'est-à-dire que nous pouvons modifier les couleurs de celui-ci grâce à des boutons qui sont reliés à chaque partie du canvas.
-Nous pouvons mettre une musique en arrière-plan et l'arrêter grâce à deux boutons.
-Il y a également un mode nuit. Si l'utilisateur souhaite faire un hibou de couleurs claires, il pourra différencier les couleurs plus facilement si le fond est sombre.
-Les yeux du hibou suivent la souris.
-Nous pouvons enregistrer notre hibou en JPG, une fois celui-ci terminé. Il y a une liste de chaque hibou enregistré sur le express.
-
+L'utilisateur peut configurer son avatar sous forme d'un hibou et le partager avec d'autres utilisateurs
 
 ## technos
 
 paperjs, express
 
 ## license
-wtfpl
+
+[wtfpl](http://www.wtfpl.net/)
 
 
-# chloe sans
+# parle avec toto
+
+il a un sacré accent québécois
+
+![screenshot](screenshots/hibou.png)
+
+## auteur
+
+chloe sans
 @chloesans
-
-parle avec toto
 
 ## l'experience
 
@@ -112,26 +120,38 @@ paperjs, webaudio, express
 ## license
 cc by sa 4.0
 
-# Karl Justiniano
+
+# lowpass seigfried
+visualisation de spectre audio en 3d
+
+![screenshot](screenshots/seigfried.png)
+
+## auteur
+
+Karl Justiniano
 @karljstn
-lowpass seigfried
+
 
 ## l'experience
 à partir d'une cover de Franck Ocean - Seigfried par Justice Der, l'utilisateur peut appliquer un filtre et donc modifier le rendu sonore du morceau en visualisant le spectre des fréquences
 
-##technos
+## technos
 threejs, webaudioapi, express
 
-##restitution
+## restitution
 un enregistrement de 9 secondes d'une variation du morceau
 
 ## license
-compliqué puisqu'utilise la cover une œuvre soumise au copyright :-)
+compliqué puisque utilise la cover une œuvre soumise au copyright :-)
 
-# Gregory Colombe
+
+# blue
+
+## auteur
+
+Gregory Colombe
 @GregoryColombe
 
-blue
 
 in the end de xxxtentation lil peep
 
