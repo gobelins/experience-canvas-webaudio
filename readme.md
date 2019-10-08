@@ -15,6 +15,19 @@ Cette expérience doit être partagée
 
 - [wave.more](#wavemore) par Yaoyi Luo
 - [space ship](#space-ship) par Julien Vanroy
+- [pimp my hibou](#pimp-my-hibou) par juliette sage--aubriot
+- [parle avec toto](#parle-avec-toto) par chloe sans
+- [lowpass seigfried](#lowpass-seigfried) par Karl Justiniano
+- [blue](#blue) par Gregory Colombe
+- [speakinggg](#speakinggg) par An Truong
+- [fire ice cream](#fire-ice-cream) par Serge Bocancea
+- [space3000](#space3000) par Léon Baudouin
+- [project sound](#project-sound) par Emilien Vandevelde
+- [le piano des animaux](#le-piano-des-animaux) par Vincent Largillet
+- [cerf volants theremin](#cerfs-volants-theremin) par Morgane Sauneuf
+- [cantar](#cantar) par Michael de Laborde
+- [generative forest](#generative-forest) par Marius Ballot
+- [space mess](#space-mess) par Marius Ballot
 
 
 <!--
@@ -202,7 +215,7 @@ Serge Bocancea
 
 
 ## experiment
-un [flappy-bird like](https://en.wikipedia.org/wiki/Flappy_Bird) controllé par la voix
+un [flappy-bird like](https://en.wikipedia.org/wiki/Flappy_Bird) controllé par la voix, très ludique
 
 ## restitution
 leaderboard
@@ -214,13 +227,18 @@ canvas, webaudio, express
 MIT
 design: luc miramont
 
-# Léon Baudouin
+# space3000
+jeu d'obstacles controllé à la voix
+![screenshot](screenshots/speakinggg.png)
+
+## auteur
+Léon Baudouin
 @leonbaudouin
 
 space3000
 
 ## experiment
-jeu d'obstacles controllé à la voix
+jeu d'obstacles contrôlé par la tonalité de la voix
 
 ## restitution
 des enregistrements débiles
@@ -232,10 +250,13 @@ canvas, baudouinframework, collisions, webaudio, express
 cc by sa 4.0
 framework: mit
 
-# Emilien Vandevelde
-@emilien-v
+# project sound
 
-project sound
+![screenshot](screenshots/project-sound.png)
+
+## auteur
+Emilien Vandevelde
+@emilien-v
 
 ## experiment
 
@@ -251,10 +272,14 @@ paper, webaudio, express
 ## license
 cc by sa 4.0
 
-# Vincent Largillet
-@vincentlrg
+# le piano des animaux
+le cri des animaux comme notes de musique
 
-le piano des animaux
+![screenshot](screenshots/piano-animaux.png)
+
+## auteur
+Vincent Largillet
+@vincentlrg
 
 ## experiment
 un piano qui en guise de note emmet des cris d'animaux
@@ -272,7 +297,11 @@ webaudio, canvas, express
 
 cc by sa 4.0
 
-# morgane sauneuf
+# cerf volants theremin
+
+![screenshot](screenshots/cerfs-volants-theremin.png)
+
+Morgane Sauneuf
 @morganesauneuf
 
 cerf volants theremin
@@ -288,8 +317,12 @@ des harmoniques composées à plusieurs
 webaudio, paper, express, gamepadapi
 
 
-# Michael de Laborde
-cantar
+# cantar
+une expérience apaisante
+![screenshot](screenshots/cantar.png)
+
+## auteur
+Michael de Laborde
 
 ## experiment
 expérience relaxante où l'utilisateur incarne un autour des palombes (rapace) au vol régilier
@@ -305,10 +338,18 @@ three, react, webaudioapi, gamepad, gsap tweenmax
 ## license
 cc by 4.0
 
-# marius ballot
+# generative forest
+
+![screenshot](screenshots/generative-forest.png)
+
+## auteur
+Marius Ballot
 @mariusballot
 
-generative forest
+- code source https://github.com/MariusBallot/GenerativeForest
+- demo https://www.mariusballot.com/lab/generativeForest/
+
+
 
 ## experiment
 
@@ -324,10 +365,13 @@ threejs, glsls, webaudioapi, c4d, blender, fl studio
 ## license
 cc by sa 4.0
 
-# théo lemoine
-@TheoLemoine
+# space mess
 
-space mess
+![screenshot](screenshots/space-mess.png)
+
+## auteur
+théo lemoine
+@TheoLemoine
 
 ## experiment
 
@@ -336,7 +380,6 @@ asteroid-like multi-joueur piloté par le giroscope du téléphone
 ## technos
 
 socket.io express paperjs deviceorientation webaudioapi
-
 
 # aurelien hemidy
 @aurelien.hmdy
