@@ -410,15 +410,16 @@ canvas, express, webaudio
 wtfpl
 
 # casse-brique
+un casse-brique sonore
 
-(screenshot missing)
+![screenshot](screenshots/casse-brique.png)
 
 Yann Chabot-Thomas
 @ychabot-thomas
 
 ## experiment
 
-un casse-brique sonore
+un casse-brique où le joueur est injectivé au cours de sa partie
 
 ## restitution
 leaderboard
