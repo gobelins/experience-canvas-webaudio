@@ -172,7 +172,7 @@ compliqué puisque utilise la cover une œuvre soumise au copyright :-)
 
 # blue
 
-(screenshot missing)
+![screenshot](screenshots/blue.png)
 
 ## auteur
 
@@ -233,7 +233,7 @@ MIT
 design: luc miramont
 
 # space3000
-jeu d'obstacles controllé à la voix
+jeu d'obstacles contrôlé à la voix
 ![screenshot](screenshots/space3000.png)
 
 ## auteur
