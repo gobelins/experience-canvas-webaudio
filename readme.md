@@ -34,6 +34,7 @@ Cette expérience doit être partagée
 - [spectrum](#spectrum) par Pablo Aparicio
 - [accordeur vocal](#accordeur-vocal) par Léo Mouraire
 - [ns-03_theremin](#ns-03_theremin) par Arno Dubois
+- [epileptic-balls](#epileptic-balls) par Brieuc Caillot
 
 <!--
 l'experience
@@ -517,3 +518,26 @@ aucune
 ## technos
 
 websocket, pixi, ns-joycon (node), webaudio
+
+
+# epileptic-circles
+Une experience en canvas avec des cercles qui changent de couleurs et rebondissent partout !
+
+![screenshot](screenshots/epileptic-circles.gif)
+
+Brieuc Caillot
+@BrieucKyo
+
+## experiment
+Possibilité de générer, supprimer, changer la couleur des cercles, ainsi que changer le fond de l'experience avec une manette.
+Gain audio qui s'adapte au nombre de cercles présents sur l'experience.
+
+
+## restitution
+Enregistrement visuel et audio de l'experience
+
+## technos
+canvas, webaudioapi, express
+
+## license
+wtfpl
