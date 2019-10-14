@@ -34,7 +34,7 @@ Cette expérience doit être partagée
 - [spectrum](#spectrum) par Pablo Aparicio
 - [accordeur vocal](#accordeur-vocal) par Léo Mouraire
 - [ns-03_theremin](#ns-03_theremin) par Arno Dubois
-- [epileptic-balls](#epileptic-balls) par Brieuc Caillot
+- [epileptic-circles](#epileptic-circles) par Brieuc Caillot
 
 <!--
 l'experience
