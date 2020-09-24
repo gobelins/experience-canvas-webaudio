@@ -12,5 +12,5 @@ Cette expérience doit être partagée
 
 voir par années
 
-* [bddi 2019](#bddi-2019.md)
-* [bddi 2020](#bddi-2020.md)
+* [bddi 2019](bddi-2019.md)
+* [bddi 2020](bddi-2020.md)
