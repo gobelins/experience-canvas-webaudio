@@ -15,3 +15,4 @@ voir par années
 * [bddi 2019](bddi-2019.md)
 * [bddi 2020](bddi-2020.md)
 * [bddi 2021](bddi-2021.md)
+* [bddi 2022](bddi-2022.md)
